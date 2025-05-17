@@ -19,7 +19,8 @@
 
 
 ## Фотографии
-![image](https://github.com/user-attachments/assets/72d424a3-0d1f-401c-9856-8d608d86dc31)
-![image](https://github.com/user-attachments/assets/26c6a414-6185-416e-9b99-9ef0b357fcec)
+![photo_2025-05-17_20-50-26](https://github.com/user-attachments/assets/782dbb8d-c19a-4228-820e-e9110136d354)
+![photo_2025-05-17_20-50-21](https://github.com/user-attachments/assets/40ac1be1-867d-42a8-89ec-471690b3602e)
+
 
 

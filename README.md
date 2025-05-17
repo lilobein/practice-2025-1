@@ -12,7 +12,7 @@
 
 ## Вариативная часть задания
 
-JavaScript: Developing Games with React, Redux, and SVG (https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
+Python: How To Create a Telegram Bot Using Python (https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 
 ## Ответственный по проектной (учебной) практике
 
